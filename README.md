@@ -1,6 +1,6 @@
 # IQM Quantum Summer School 2026
 
-A free, three-day online hands-on program introducing quantum computing—from core concepts and algorithms to pulse-level execution on superconducting quantum hardware.
+A free, three-day online hands-on program introducing quantum computing from core concepts and algorithms to pulse-level execution on superconducting quantum hardware.
 
 ## Overview
 - **Dates:** August 25–27, 2026
@@ -18,9 +18,12 @@ A free, three-day online hands-on program introducing quantum computing—from c
 - **IQM Resonance:** Cloud access to run circuits and experiments on real quantum hardware
 - **Qrisp:** Quantum software and algorithm development
 - **IQM Pulla:** Pulse-level access to superconducting hardware
-
+  
+## Hands-On Labs & Notebooks
+- All Jupyter lab notebooks provided in this repository include complete **solutions** for reference and self-paced learning.
+  
 ## Resources
 Watch-back lectures on YouTube
 - [**Day 1 - Foundations & First Quantum Computations**](https://www.youtube.com/watch?v=aMFl7r9EY5Q)
 - [**Day 2 - Quantum Algorithms**](https://www.youtube.com/watch?v=o9zVgpaLoWw)
-- [**Day 3 - Hardware, Pulse-Level Control & Noise**](https://www.youtube.com/watch?v=S_HM3Px6OCk)
+- [**Day 3 - Hardware, Pulse-Level Control & Noise**](https://www.youtube.com/watch?v=S_HM3Px6OCk) 
