@@ -20,7 +20,7 @@ A free, three-day online hands-on program introducing quantum computing—from c
 - **IQM Pulla:** Pulse-level access to superconducting hardware
 
 ## Resources
-- Watch-back lectures on YouTube
-- [**Day 1**](https://www.youtube.com/watch?v=aMFl7r9EY5Q)
-- [**Day 2**](https://www.youtube.com/watch?v=o9zVgpaLoWw)
-- [**Day 3**](https://www.youtube.com/watch?v=S_HM3Px6OCk)
+Watch-back lectures on YouTube
+- [**Day 1 - Foundations & First Quantum Computations**](https://www.youtube.com/watch?v=aMFl7r9EY5Q)
+- [**Day 2 - Quantum Algorithms**](https://www.youtube.com/watch?v=o9zVgpaLoWw)
+- [**Day 3 - Hardware, Pulse-Level Control & Noise**](https://www.youtube.com/watch?v=S_HM3Px6OCk)
